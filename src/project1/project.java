@@ -5,7 +5,7 @@ public class project {
 	public static void main(String[] args) {
 		int choice=0;
 	
-		File files = new File("C:\\Users\\Hari\\Desktop\\LockedMe.com\\CompanyLockers");
+		File files = new File("C:\\Users\\Hari\\Desktop\\Phase 3\\project1");
 		File[] listoffiles = files.listFiles();
 		List<File> arrayoffiles = Arrays.asList(listoffiles);
 		do
